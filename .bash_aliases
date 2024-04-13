@@ -1,7 +1,6 @@
 alias code="nohup pycharm-professional > /dev/null 2>&1 &"
-alias ll='ls -alF'
 alias la='ls -A'
-alias l='ls -CF'
+alias ls='ls -CF --color=tty'
 
 alias s=yandex
 alias cat=highlight

@@ -1,4 +1,4 @@
-alias code="nohup pycharm-professional > /dev/null 2>&1 &"
+alias pvenv="python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt "
 alias la='ls -A'
 alias ls='ls -CF --color=tty'
 

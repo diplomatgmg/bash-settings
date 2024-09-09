@@ -1,4 +1,6 @@
 alias pvenv="python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt"
+alias uvenv="uv venv && source .venv/bin/activate && uv pip install -r requirements.dev.txt"
+
 alias la='ls -A'
 alias ls='ls -CF --color=tty'
 

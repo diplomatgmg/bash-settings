@@ -8,7 +8,6 @@ colorize
 sudo
 copyfile
 web-search
-you-should-use
 )
 
 ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets pattern cursor root)

@@ -1,5 +1,5 @@
 alias pvenv="python3 -m venv venv && source venv/bin/activate"
-alias uvenv="uv venv && source .venv/bin/activate"
+alias .pvenv="python3 -m venv .venv && source .venv/bin/activate"
 
 alias la='ls -A'
 alias ls='ls -CF --color=tty'
